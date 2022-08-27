@@ -1,3 +1,12 @@
+演示站点：pc后台演示https://master.nblshop.cn/site/apps?sid=1542064905316896770    账号：15521239112   密码：Ab123456.
+PC商城
+H5用户端访问链接：https://m.nblshop.cn/1542064905316896770#/pages/home/index?id=317    
+更多产品介绍，欢迎访问快链官方网站:https://www.nblshop.cn/h-col-126.html
+核心亮点：JAVA底层架构---应用的前景比较广阔,系统易维护、可复用性较好，在数据库访问方面java相对应其他开发语言性能以及速度要强很多。
+私有化部署：授权范围内的功能具备永久使用权， 企业自己保障数据安全，不依赖任何服务商。
+源码交付：支持源码交付，企业可自行二次开发。
+技术优势：核心技术成员均曾任职互联网大厂中高核心层。
+购买后需要具备的基本能力：没有具体的能力要求，会电脑开关机即可。对于c端用户，我们提供技术部署支持，一对一售后指导支持。
 # -
 微信公众号，小程序，app分销商城系统，java+PHP语言开发程序。基于市场主流模式功能。功能点：二级分销，团队分红，区域代理分红，多商户入驻等功能
 <img width="1425" alt="后台1" src="https://user-images.githubusercontent.com/112161853/186867170-7fa8a94d-46a3-4ab8-9a77-c29c0a146ba2.png">
@@ -9,5 +18,22 @@
 ![代码1](https://user-images.githubusercontent.com/112161853/186867280-6f417973-904d-4b65-ac09-3fffd9809894.png)
 ![代码2](https://user-images.githubusercontent.com/112161853/186867286-0db801f2-857d-4fba-b8c8-8525ff82c1c1.png)
 ![代码3](https://user-images.githubusercontent.com/112161853/186867294-ea3c09f3-8062-4b3e-a57a-2bd15a54a56b.png)
+适合使用的用户
+ 电商公司：通过部署自有私域流量商城，快速实现社交电商裂变推广变现。公域流量虽大，但私域流量经营的方案也同样重要，快链商城会是得力的商城系统工具。
+ 软件公司：不用再苦苦找寻靠谱稳定的商城系统解决方案了，likeshop开源商城代码通俗易懂，容易二次开发，值得项目使用。
+ 性能预估：<img width="1403" alt="性能预估" src="https://user-images.githubusercontent.com/112161853/187011904-e32abd80-3cce-4ebe-8096-ad377c7ac171.png">
 更多功能了解请联系：155-2123-9112 张，或添加微信备注来明。
 ![WechatIMG50](https://user-images.githubusercontent.com/112161853/186867526-3b67a276-54e4-4a44-b0f5-644c413e9fb3.jpeg)
+部分功能展示：<img width="1414" alt="功能展示1" src="https://user-images.githubusercontent.com/112161853/187012229-527f8e87-84b4-4041-aa78-1f92863e0933.png">
+多端数据互通：<img width="1413" alt="功能2" src="https://user-images.githubusercontent.com/112161853/187012303-41f230b8-81d0-4dd3-a79a-b4372aa8dfaa.png">
+<img width="1426" alt="功能3" src="https://user-images.githubusercontent.com/112161853/187012307-1f6bc072-9f15-42f7-9e1d-8dec53faf4ee.png">
+<img width="1419" alt="功能4" src="https://user-images.githubusercontent.com/112161853/187012333-de2b3646-62de-4184-8de6-e613e2ff0c1b.png">
+<img width="1424" alt="功能5" src="https://user-images.githubusercontent.com/112161853/187012358-cede6e97-8aae-4194-8125-d0988232e5e1.png">
+<img width="1435" alt="功能6" src="https://user-images.githubusercontent.com/112161853/187012366-7b59f9cd-e1bb-4df8-92aa-5668cfbb6c3f.png">
+<img width="1411" alt="功能7" src="https://user-images.githubusercontent.com/112161853/187012380-397623a3-b193-46d9-b6c3-2bf00b5aa7c2.png">
+<img width="1432" alt="功能8" src="https://user-images.githubusercontent.com/112161853/187012388-cc11e56b-6f18-431b-9993-42abf1bce8c6.png">
+<img width="1414" alt="功能9" src="https://user-images.githubusercontent.com/112161853/187012402-2c561d4e-2d4b-4921-bfb4-cb7e86b90521.png">
+<img width="1405" alt="功能10" src="https://user-images.githubusercontent.com/112161853/187012420-b5686f94-7942-4c70-b7fe-920acf5c5c86.png">
+<img width="1408" alt="功能11" src="https://user-images.githubusercontent.com/112161853/187012424-d67b3dab-dc8f-44cb-83f0-e2b53d639fd9.png">
+更多功能或案例请联系：155-2123-9112。或添加微信：注明来意！![WechatIMG50](https://user-images.githubusercontent.com/112161853/187012477-f368e12f-2358-455d-818a-0b53a108a60e.jpeg)
+人海茫茫，能相遇即是缘分，希望与您更多的联系接触，不枉前世五百次的回眸。
