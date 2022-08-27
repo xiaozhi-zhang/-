@@ -22,11 +22,13 @@ H5用户端访问链接：https://m.nblshop.cn/1542064905316896770#/pages/home/i
 <img width="1313" alt="WechatIMG46" src="https://user-images.githubusercontent.com/112161853/186867234-b1354068-8305-4ca7-a8d5-bd7a2264d653.png">
 <img width="1269" alt="WechatIMG45" src="https://user-images.githubusercontent.com/112161853/186867247-a0c3267d-cfaa-4094-94a3-e21ae19ad1ed.png">
 <img width="1327" alt="WechatIMG44" src="https://user-images.githubusercontent.com/112161853/186867262-2ccfad64-0c82-40a8-a7f5-edfdf43b7331.png">
-![数据大屏](https://user-images.githubusercontent.com/112161853/187019466-2593882f-8827-4590-9228-f753f72589ba.png)
-![代码1](https://user-images.githubusercontent.com/112161853/187019489-7b705e56-6716-4652-b24b-f62f5ac8279e.png)
-![代码2](https://user-images.githubusercontent.com/112161853/187019504-2dfd0bd1-1ec0-47c1-9f94-d434039ecd7a.png)
+![数据大屏](https://user-images.githubusercontent.com/112161853/187019705-d0eecd5c-3b8c-49b9-aac1-65b8f0b37035.png)
+![代码2](https://user-images.githubusercontent.com/112161853/187019759-ec8a70e7-9e58-4dac-b426-45e84b7d9045.png)
+![代码1](https://user-images.githubusercontent.com/112161853/187019754-5cd19aab-8577-4423-8453-d0e3bc7c2dc8.png)
+
 适合使用的用户!
- 传统企业：传统零售企业或商家想转型线上平台，拥有自营私域商城，通过线上流量快速裂变促进营销销售等。
+ 传统企业：传统零售企业或商家想转型线
+上平台，拥有自营私域商城，通过线上流量快速裂变促进营销销售等。
  
  平台化企业：想通过当地人脉资源，搭建打造本地商圈平台，联合本地商家及生产厂家打造共享异业联盟商城平台。
  
