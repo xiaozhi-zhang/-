@@ -23,7 +23,6 @@ H5用户端访问链接：https://m.nblshop.cn/1542064905316896770#/pages/home/i
  软件公司：不用再苦苦找寻靠谱稳定的商城系统解决方案了，likeshop开源商城代码通俗易懂，容易二次开发，值得项目使用。
  性能预估：<img width="1403" alt="性能预估" src="https://user-images.githubusercontent.com/112161853/187011904-e32abd80-3cce-4ebe-8096-ad377c7ac171.png">
 更多功能了解请联系：155-2123-9112 张，或添加微信备注来明。
-![WechatIMG50](https://user-images.githubusercontent.com/112161853/186867526-3b67a276-54e4-4a44-b0f5-644c413e9fb3.jpeg)
 部分功能展示：<img width="1414" alt="功能展示1" src="https://user-images.githubusercontent.com/112161853/187012229-527f8e87-84b4-4041-aa78-1f92863e0933.png">
 多端数据互通：<img width="1413" alt="功能2" src="https://user-images.githubusercontent.com/112161853/187012303-41f230b8-81d0-4dd3-a79a-b4372aa8dfaa.png">
 <img width="1426" alt="功能3" src="https://user-images.githubusercontent.com/112161853/187012307-1f6bc072-9f15-42f7-9e1d-8dec53faf4ee.png">
